@@ -1,3 +1,7 @@
 [submodule "projects/be-the-hero"]
 	path = projects/be-the-hero
 	url = https://github.com/Oracon/be-the-hero.git
+	
+[submodule "projects/30diasDeCSS"]
+	path = projects/30diasDeCSS
+	url = https://github.com/Oracon/30diasDeCSS.git

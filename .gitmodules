@@ -1,0 +1,3 @@
+[submodule "projects/be-the-hero"]
+	path = projects/be-the-hero
+	url = https://github.com/Oracon/be-the-hero.git

@@ -1,0 +1,27 @@
+.navbar {
+   background-color: #abe4b7;
+   font-size: large;
+}
+
+.quem-somos{
+   background-color: white;
+}
+
+.parceiros{
+   background-color: burlywood;
+}
+
+.servicos{
+   background-color: rgb(162, 126, 245);
+   color: white;
+}
+
+.bg-footer{
+   background-color: #abe4b7;
+   color: white;
+}
+
+.margin {
+   padding-top: 50px;
+   padding-bottom: 50px;
+}

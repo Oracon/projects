@@ -45,10 +45,7 @@ Esses projetos foram desenvolvido com as seguintes tecnologias:
 ## 🔖 Layout
 
 - [Layout 1]()
-
 - [Layout 2]()
-
 - [Layout 3]()
-
 - [Layout 4]()
 

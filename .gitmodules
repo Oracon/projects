@@ -5,3 +5,6 @@
 [submodule "projects/30diasDeCSS"]
 	path = projects/30diasDeCSS
 	url = https://github.com/Oracon/30diasDeCSS.git
+[submodule "projects/netflix-page"]
+	path = projects/netflix-page
+	url = https://github.com/Oracon/netflix-page.git

@@ -45,6 +45,7 @@ Esses projetos foram desenvolvido com as seguintes tecnologias:
 ## 🔖 Layout
 
 - [Be-The-Hero](https://github.com/Oracon/be-the-hero)
+![Mobile and Desktop app](https://github.com/Oracon/projects/blob/master/layouts/layout-bethehero.JPG)
 
 - [Bodyfat](https://oracon.github.io/bodyfat/)
 

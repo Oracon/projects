@@ -34,7 +34,7 @@ Esses projetos foram desenvolvido com as seguintes tecnologias:
 
 - [Be-The-Hero](https://github.com/Oracon/be-the-hero)
 
-- [Bodyfat](https://oracon.github.io/bodyfat/) Calculate your own bodyfat via Pollock method.
+- [Bodyfat](https://oracon.github.io/bodyfat/)
 
 - [Instagram](https://oracon.github.io/instagram-page/)
 
@@ -46,7 +46,7 @@ Esses projetos foram desenvolvido com as seguintes tecnologias:
 
 - [Be-The-Hero](https://github.com/Oracon/be-the-hero)
 
-- [Bodyfat](https://oracon.github.io/bodyfat/) Calculate your own bodyfat via Pollock method.
+- [Bodyfat](https://oracon.github.io/bodyfat/)
 
 - [Instagram](https://oracon.github.io/instagram-page/)
 

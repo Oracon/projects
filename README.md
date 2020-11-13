@@ -34,11 +34,11 @@ Esses projetos foram desenvolvido com as seguintes tecnologias:
 
 - [Be-The-Hero](https://github.com/Oracon/be-the-hero)
 
-- [Projeto 2]()
+- [Bodyfat](https://oracon.github.io/bodyfat/) Calculate your own bodyfat via Pollock method.
 
-- [Projeto 3]()
+- [Instagram](https://oracon.github.io/instagram-page/)
 
-- [Projeto 4]()
+- [Netflix](https://oracon.github.io/netflix-page/)
 
   
 

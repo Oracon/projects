@@ -8,3 +8,6 @@
 [submodule "projects/netflix-page"]
 	path = projects/netflix-page
 	url = https://github.com/Oracon/netflix-page.git
+[submodule "projects/bodyfat"]
+	path = projects/bodyfat
+	url = https://github.com/Oracon/bodyfat.git

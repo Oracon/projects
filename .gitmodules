@@ -11,3 +11,6 @@
 [submodule "projects/bodyfat"]
 	path = projects/bodyfat
 	url = https://github.com/Oracon/bodyfat.git
+[submodule "projects/instagram-page"]
+	path = projects/instagram-page
+	url = https://github.com/Oracon/instagram-page.git

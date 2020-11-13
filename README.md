@@ -34,18 +34,21 @@ Esses projetos foram desenvolvido com as seguintes tecnologias:
 
 - [Be-The-Hero](https://github.com/Oracon/be-the-hero)
 
-- [Projeto 2]()
+- [Bodyfat](https://oracon.github.io/bodyfat/)
 
-- [Projeto 3]()
+- [Instagram](https://oracon.github.io/instagram-page/)
 
-- [Projeto 4]()
+- [Netflix](https://oracon.github.io/netflix-page/)
 
   
 
 ## 🔖 Layout
 
-- [Layout 1]()
-- [Layout 2]()
-- [Layout 3]()
-- [Layout 4]()
+- [Be-The-Hero](https://github.com/Oracon/be-the-hero)
+
+- [Bodyfat](https://oracon.github.io/bodyfat/)
+
+- [Instagram](https://oracon.github.io/instagram-page/)
+
+- [Netflix](https://oracon.github.io/netflix-page/)
 

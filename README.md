@@ -44,15 +44,15 @@ Esses projetos foram desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-- [Be-The-Hero](https://github.com/Oracon/be-the-hero)
+### [Be-The-Hero](https://github.com/Oracon/be-the-hero)
 ![Mobile and Desktop app](https://github.com/Oracon/projects/blob/master/layouts/layout-bethehero.JPG)
 
-- [Bodyfat](https://oracon.github.io/bodyfat/)
+### [Bodyfat](https://oracon.github.io/bodyfat/)
 ![](https://github.com/Oracon/projects/blob/master/layouts/layout-bodyfat.JPG)
 
-- [Instagram](https://oracon.github.io/instagram-page/)
+### [Instagram](https://oracon.github.io/instagram-page/)
 ![](https://github.com/Oracon/projects/blob/master/layouts/layout-instagram.JPG)
 
-- [Netflix](https://oracon.github.io/netflix-page/)
+### [Netflix](https://oracon.github.io/netflix-page/)
 ![](https://github.com/Oracon/projects/blob/master/layouts/layout-netflix.JPG)
 
